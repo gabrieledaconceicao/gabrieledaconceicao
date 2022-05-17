@@ -14,7 +14,7 @@
   <img align="center" alt="Gabriele-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriele-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <p align="center">
-    <img windth="470" src=https://github.com/gabrieledaconceicao/gabrieledaconceicao/blob/7238d4ecbec43867adf79e03ea742190a111b6ef/giphy%20(1).gif
+    <img windth="250" src=https://github.com/gabrieledaconceicao/gabrieledaconceicao/blob/7238d4ecbec43867adf79e03ea742190a111b6ef/giphy%20(1).gif
 </div>
   
 ##
